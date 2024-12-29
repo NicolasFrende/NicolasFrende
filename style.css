@@ -705,6 +705,7 @@ header {
 }
 .me {
   display: flex;
+  flex-wrap: wrap;
   width: auto;
   justify-content: center;
   margin: 10px;
@@ -845,6 +846,7 @@ header {
 }
 .navbarr ul {
   display: flex;
+  flex-wrap: wrap;
   list-style: none;
   display: flex;
   flex-direction: row;
